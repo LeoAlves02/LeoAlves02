@@ -37,7 +37,7 @@ Meu nome é Leonardo Alves, sou estudante e desenvolvedor Java.
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoAlves02&layout=compact&langs_count=5&theme=night-owl&hide_border=false" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoAlves02&layout=compact&langs_count=5&theme=night-owl&hide_border=false&timestamp=${new Date().getTime()}" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=LeoAlves02&hide=issues&show_icons=true&count_private=true&theme=night-owl&hide_border=false&rank_icon=github&cache_seconds=1" /></td>
   </tr>
 </table>
