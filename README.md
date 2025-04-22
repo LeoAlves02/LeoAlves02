@@ -29,8 +29,8 @@ Meu nome é Leonardo Alves, sou estudante e desenvolvedor Java.
 
 ## 🔥 Projetos em Destaque
 
-<a href="https://github.com/LeoAlves02/picpay-transactions" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoAlves02&repo=picpay-transactions&theme=night-owl" />
+<a href="https://github.com/LeoAlves02/picpay-transactions-tests" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeoAlves02&repo=picpay-transactions-test&theme=night-owl" />
 </a>
 
 ## Estatísticas GitHub
