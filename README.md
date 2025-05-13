@@ -1,6 +1,7 @@
 # Olá 👋 Bem-vindo ao meu perfil!
 
-Meu nome é Leonardo Alves, sou estudante e desenvolvedor Java.
+Meu nome é Leonardo Alves, sou estudante e desenvolvedor Java.  
+<a href="https://leoalves02.github.io/Portfolio/" target="_blank">Portfólio</a>
 
 ## Sobre mim
 
