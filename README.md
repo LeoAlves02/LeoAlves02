@@ -5,7 +5,7 @@ Meu nome é Leonardo Alves, sou estudante e desenvolvedor Java.
 
 ## Sobre mim
 
-📝 Cursando Ciência da Computação - UAM  
+📝 Cursando Ciência da Computação - UNIP
 🎓 Formado em Análise e Desenvolvimento de Sistemas - UNIP  
 🎓 Formado em Técnico em Informática - SENAC  
 📍 São Paulo, Brasil 🇧🇷    
